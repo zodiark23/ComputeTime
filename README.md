@@ -2,12 +2,9 @@
 
 
 **AUTHOR** 			: *Reyan Celestial Tropia*
-
 **Interface Name** 	: *TIME*
-
 **Class Name** 		: *ComputeTime*
-
-#####(NOTE)
+#####NOTES
 
 	MINUTES MUST BE DECLARE WITH 0 IF LESS THAN 10
 	E.G 01 02 03 04
@@ -19,11 +16,6 @@
 
 >$x->timeDiff("1:00 PM" , "1:59 PM") ; //Compute the difference of two time(break is deducted base on schedule)
 
-```javascript
-   $("#hello-world").on("haha", function(){
-   
-   });
-```
 
 ##Displaying/Fetching Data
 > echo $x->time(); // get the full time difference
