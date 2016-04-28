@@ -1,4 +1,4 @@
-#Compute Time
+# Compute Time PHP Class
 
 
 **AUTHOR** 			: *Reyan Celestial Tropia*
