@@ -1,9 +1,9 @@
 # Compute Time PHP Class
 
 
-*AUTHOR 		: Reyan Celestial Tropia
+*AUTHOR 		: Reyan Celestial Tropia	
 Interface Name 	: TIME 	
-Class Name 		: ComputeTime* 	
+Class Name 		: ComputeTime*		
 
 #####NOTES
 
