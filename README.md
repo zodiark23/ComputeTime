@@ -18,6 +18,8 @@
 ```
 
 ##Displaying/Fetching Data
-> echo $x->time(); // get the full time difference
-> echo $x->getHour(); //get the difference in Hours format.
-> echo $x->getMinute(); //get the difference in minutes format.
+```php
+echo $x->time(); // get the full time difference
+echo $x->getHour(); //get the difference in Hours format.
+echo $x->getMinute(); //get the difference in minutes format.
+```
