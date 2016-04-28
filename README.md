@@ -11,7 +11,7 @@
 	E.G 01 02 03 04
 	DONT USE MINUTES LIKE 8:1 AM
 
-######PHP Syntax
+###### PHP Syntax
 ```php
 $x = new ComputeTime(); //Initialize the Class
 
