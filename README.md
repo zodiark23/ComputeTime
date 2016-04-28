@@ -20,7 +20,7 @@
 >$x->timeDiff("1:00 PM" , "1:59 PM") ; //Compute the difference of two time(break is deducted base on schedule)
 
 ```html
-   // code for coloring lol
+   <!-- code for coloring lol -->
 ```
 
 ##Displaying/Fetching Data
