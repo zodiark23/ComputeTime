@@ -3,7 +3,7 @@
 
 	AUTHOR 		: Reyan Celestial Tropia	
 	Interface Name 	: TIME 	
-	Class Name 		: ComputeTime		
+	Class Name : ComputeTime		
 
 #####NOTES
 
@@ -26,3 +26,5 @@ echo $x->time(); // get the full time difference
 echo $x->getHour(); //get the difference in Hours format.
 echo $x->getMinute(); //get the difference in minutes format.
 ```
+
+> Thanks google.
