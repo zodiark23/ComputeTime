@@ -30,10 +30,10 @@ echo $x->getMinute(); //get the difference in minutes format.
 
 #### Future Features
 
-	*Compute and Overtime Base on the given work schedule.
+	Compute and Overtime Base on the given work schedule.
 	Add a function that computes basic pay per day.
 		- will compute deductions on late.
 		- will compute additional rate for Overtime.* 	
 
 
-> Thanks google.
+> Thanks google for all the help.
